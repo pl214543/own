@@ -1,3 +1,6 @@
+#note - hopefully this works just as well on github as it did on replit
+#ps there are multiple branches (which I assumed are the same as .py files)
+
 #for when entering the password. hashing will encrypt the password in the sql database
 import hashlib
 
